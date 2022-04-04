@@ -30,4 +30,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [David Goggins ရဲ့ Can’t hurt me ဆိုတဲ့ စာအုပ်ကို မဖတ်ရသေးရင် ဖတ်ကြည့်စေချင်တယ်။ အသားကျနေတဲ့…](https://medium.com/@16hrscode/david-goggins-%E1%80%9B%E1%80%B2%E1%80%B7-cant-hurt-me-%E1%80%86%E1%80%AD%E1%80%AF%E1%80%90%E1%80%B2%E1%80%B7-%E1%80%85%E1%80%AC%E1%80%A1%E1%80%AF%E1%80%95%E1%80%BA%E1%80%80%E1%80%AD%E1%80%AF-%E1%80%99%E1%80%96%E1%80%90%E1%80%BA%E1%80%9B%E1%80%9E%E1%80%B1%E1%80%B8%E1%80%9B%E1%80%84%E1%80%BA-%E1%80%96%E1%80%90%E1%80%BA%E1%80%80%E1%80%BC%E1%80%8A%E1%80%BA%E1%80%B7%E1%80%85%E1%80%B1%E1%80%81%E1%80%BB%E1%80%84%E1%80%BA%E1%80%90%E1%80%9A%E1%80%BA-%E1%80%A1%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%80%E1%80%BB%E1%80%94%E1%80%B1%E1%80%90%E1%80%B2%E1%80%B7-6042e59f86b0?source=rss-372e8c7b30d2------2)
+- [Don’t Repeat Yourself](https://medium.com/@16hrscode/dont-repeat-yourself-c4ceb4e5f4de?source=rss-372e8c7b30d2------2)
+- [Curly’s Law](https://medium.com/@16hrscode/curlys-law-7960988db0f6?source=rss-372e8c7b30d2------2)
+- [Slug ဆိုတာ ဘာလား](https://medium.com/@16hrscode/slug-%E1%80%86%E1%80%AD%E1%80%AF%E1%80%90%E1%80%AC-%E1%80%98%E1%80%AC%E1%80%9C%E1%80%AC%E1%80%B8-66d127ed10c5?source=rss-372e8c7b30d2------2)
+- [တန်ဖိုးရှိတဲ့ ကျွမ်းကျင်မူတွေကို ဘယ်လိုတည်ဆောက်မလဲ](https://medium.com/@16hrscode/%E1%80%90%E1%80%94%E1%80%BA%E1%80%96%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%9B%E1%80%BE%E1%80%AD%E1%80%90%E1%80%B2%E1%80%B7-%E1%80%80%E1%80%BB%E1%80%BD%E1%80%99%E1%80%BA%E1%80%B8%E1%80%80%E1%80%BB%E1%80%84%E1%80%BA%E1%80%99%E1%80%B0%E1%80%90%E1%80%BD%E1%80%B1%E1%80%80%E1%80%AD%E1%80%AF-%E1%80%98%E1%80%9A%E1%80%BA%E1%80%9C%E1%80%AD%E1%80%AF%E1%80%90%E1%80%8A%E1%80%BA%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%99%E1%80%9C%E1%80%B2-f3d94ed33336?source=rss-372e8c7b30d2------2)
 <!-- BLOG-POST-LIST:END -->
