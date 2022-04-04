@@ -26,7 +26,7 @@
 <a href="https://fb.com/myomyat.han" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="myomyat.han" height="30" width="40" /></a>
 <a href="https://medium.com/@16hrscode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@16hrscode" height="30" width="40" /></a>
 </p>
-### Blogs posts
+# Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Languages and Tools:</h3>
