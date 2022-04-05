@@ -20,7 +20,7 @@
 <h3 align="left">🤙 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bakhat123456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bakhat123456" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/myo-myat-han-864448190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="myo-myat-han-864448190" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/myo-myat-han" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="myo-myat-han-864448190" height="30" width="40" /></a>
 <a href="https://fb.com/myomyat.han" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="myomyat.han" height="30" width="40" /></a>
 <a href="https://medium.com/@16hrscode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@16hrscode" height="30" width="40" /></a>
 </p>
