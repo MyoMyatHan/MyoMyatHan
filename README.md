@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my personal blog.**
 
-- 🌱 I’m currently learning **laravel and just started vuejs a month ago.**
+- 🌱 I’m currently learning **laravel and just started vuejs.**
 
 - 👯 I’m looking to collaborate on **inspiring projects.**
 
