@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **laravel**
 
-- 📫 How to reach me **widlin024@gmail.com**
+- 📫 How to reach me **myomyathan.dev@gmail.com**
 
 - ⚡ Fun fact **Programming is fun**
 
