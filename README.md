@@ -1,17 +1,9 @@
 <h1 align="center">Myo Myat Han</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🔭 I’m currently working on **my personal blog.**
-
-- 🌱 I’m currently learning **laravel and just started vuejs.**
-
-- 👯 I’m looking to collaborate on **inspiring projects.**
+- 🔭 [https://myomyathan.vercel.app/](https://myomyathan.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MyoMyatHan](https://github.com/MyoMyatHan)
-
-- 📝 I regularly write articles on [https://medium.com/@16hrscode](https://medium.com/@16hrscode)
-
-- 💬 Ask me about **laravel**
 
 - 📫 How to reach me **myomyathan.dev@gmail.com**
 
