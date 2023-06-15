@@ -1,7 +1,7 @@
 <h1 align="center">Myo Myat Han</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🔭 [https://myomyathan.vercel.app/](https://myomyathan.vercel.app/)
+- 🔭 [https://www.myomyathan.me/](https://www.myomyathan.me/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MyoMyatHan](https://github.com/MyoMyatHan)
 
