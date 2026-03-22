@@ -1,7 +1,3 @@
-Here’s a new README.md for your GitHub profile, tailored to your details and style:
-
----
-
 # 👋 Hi, I'm Myo Myat Han
 
 📫 **Email:** myomyathan.dev@gmail.com
