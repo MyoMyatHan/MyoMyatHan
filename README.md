@@ -5,35 +5,16 @@ Software Developer | .NET & Vue.js
 
 📫 [myomyathan.dev@gmail.com](mailto:myomyathan.dev@gmail.com)
 
+ ### Craft Projects
+
+| Project | Description | Links |
+| :--- | :--- | :---: |
+| **FlashPost AI** | generate AI powered sale posts | [🔗 Visit](https://flashpostai.vercel.app/) |
+| **Azure Static App** | surface scratch to azure | [🔗 Visit](https://icy-river-02c78de00.6.azurestaticapps.net/) |
+| **FAHH Sound** | Plays a FAHH sound when unplugged or electricity cut out | [⭐️ Release](https://github.com/MyoMyatHan/FAHH-Sound/releases/tag/FAHH) | 
   
 
-  
 
- Craft Projects
-
-Project
-
-Description
-
-Links
-
-FlashPost AI
-
-generate AI powered sale posts
-
-[🔗 Visit](https://flashpostai.vercel.app/)
-
-Azure Static App
-
-surface scratch to azure
-
-[🔗 Visit](https://icy-river-02c78de00.6.azurestaticapps.net/)
-
-FAHH Sound
-
-Plays a FAHH sound when unplugged or electricity cut out
-
-[⭐️ Release](https://github.com/MyoMyatHan/FAHH-Sound/releases/tag/FAHH)
 
   
 
