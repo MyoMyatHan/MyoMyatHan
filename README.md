@@ -9,7 +9,7 @@ Software Developer | .NET & Vue.js
 
 | Project | Description | Links |
 | :--- | :--- | :---: |
-| **Todo + Notes** | very simple extension to remind todo list everytime new tab is opened | [🔗 Visit](https://flashpostai.vercel.app/) |
+| **Todo + Notes** | very simple extension to remind todo list everytime new tab is opened | [🔗 Visit](https://chromewebstore.google.com/detail/todo-+-notes/okfdmnaeneagdfkkkdgmljpbdgomlgmj) |
 | **FlashPost AI** | generate AI powered sale posts | [🔗 Visit](https://flashpostai.vercel.app/) |
 | **Azure Static App** | surface scratch to azure | [🔗 Visit](https://icy-river-02c78de00.6.azurestaticapps.net/) |
 | **FAHH Sound** | Plays a FAHH sound when unplugged or electricity cut out | [⭐️ Release](https://github.com/MyoMyatHan/FAHH-Sound/releases/tag/FAHH) | 
